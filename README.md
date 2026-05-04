@@ -6,8 +6,7 @@ I am a Computer Science graduate from Tanta University (Class of 2025) who stron
 I build full-fledged mobile applications using Flutter and share my technical journey, Clean Code principles, and software engineering advice with a growing community of developers in Egypt
 
 ## 🔭 What I'm Currently Building
-* 🚀 **DevBuddy**: A learning platform and personalized tech career compass tailored for junior developers
-It features customized roadmaps based on the 16Personalities (MBTI) test and an integrated "SOS Rubber Duck" assistant for debugging support
+* 🚀 **DevBuddy**: An AI-augmented learning platform designed to cure "Tutorial Hell" for junior developers via Evidence-Based Learning. Built with **Flutter, Clean Architecture, and BLoC**. It features a 15-question **Developer Persona Assessment**, a Socratic "SOS Rubber Duck" assistant, and an Evidence-Based Unlocking engine.It features customized roadmaps based on the 16Personalities (MBTI) test and an integrated "SOS Rubber Duck" assistant for debugging support
 * ♻️ **Salla (Startup)**: Mobile developer in the Flutter team for a recycling startup, working on the mobile app component that integrates with a web dashboard and IoT hardware
 * 🛒 **Shopio**: A high-performance E-commerce application implementing Clean Architecture, BLoC state management, dynamic search, and Glassmorphism UI design
 
