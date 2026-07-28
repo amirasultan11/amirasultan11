@@ -37,6 +37,15 @@ I am a passionate mobile app developer specializing in building high performance
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="your_linkedin_link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amira-abdelsalam-sultan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ameraabdelsalam1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+## 💼 Hire Me
+
+<p align="left">
+  <a href="https://mostaql.com/u/amirasultan113"><img src="https://img.shields.io/badge/Mostaqil-000000?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://kafiil.com/u/amira_sultan"><img src="https://img.shields.io/badge/Kafil-11B578?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://nafezly.com/u/amera_sultan"><img src="https://img.shields.io/badge/Nifazly-007AFF?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
+  <a href="https://khamsat.com/user/amerasultan112004"><img src="https://img.shields.io/badge/Khamsat-F26522?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </p>
