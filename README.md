@@ -6,7 +6,7 @@ I am a passionate mobile app developer specializing in building high performance
 
 ## 🚀 About Me
 
-* 🎓 CS Graduate from Faculty of Computers and Information Tanta University
+* 🎓 CS Graduate from Faculty of Computers and Information Tanta University Class of 2025
 * 💻 Specialized in cross platform mobile development with Flutter Dart and BLoC/Cubit state management
 * 🏗️ Experienced in Feature Based Clean Architecture and building premium responsive UIs
 * 🌍 Open to fully remote roles or local opportunities in Mansoura
