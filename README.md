@@ -63,7 +63,7 @@ An AI-augmented EdTech platform built with Flutter and Clean Architecture.
 - Implemented dynamic analytical charts using fl_chart
 - Focused on reusable components and maintainable project structure
 
-### 🛒 [Shopio App](https://github.com/AhmedHamdy7796/Shopio_App)
+### 🛒 [Shopio App](https://github.com/amirasultan11/Shopio_app)
 A comprehensive Flutter e-commerce application focused on scalable architecture, state management, and API-driven workflows.
 - Applied multi-feature Clean Architecture with separate Data, Domain, and Presentation layers
 - Implemented BLoC/Cubit state management
