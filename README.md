@@ -73,7 +73,7 @@ A comprehensive Flutter e-commerce application focused on scalable architecture,
 - Implemented authentication and session management
 - Built reusable UI components and responsive layouts
 
-### ♻️ Salla App
+### ♻️ Salla App (https://github.com/amirasultan11/salla )
 A digital recycling ecosystem built with Flutter and Dart with user and administrative workflows.
 - Implemented Feature-Based Architecture with BLoC/Cubit
 - Built reusable responsive UI components
@@ -82,7 +82,7 @@ A digital recycling ecosystem built with Flutter and Dart with user and administ
 - Added Arabic localization and RTL support
 - Implemented custom theming and reusable form components
 
-### 📅 MatchIn App
+### 📅 MatchIn App (https://github.com/ahmed-eltantawi/mathcIn_flutter)
 An appointment-based Flutter application developed within a collaborative team environment.
 - Built authentication UI modules from scratch using reusable Flutter widgets
 - Implemented Register, Login, Profile, and related authentication workflows
@@ -93,7 +93,7 @@ An appointment-based Flutter application developed within a collaborative team e
 - Implemented authentication session management using FlutterSecureStorage and SharedPreferences
 - Worked with Git and GitHub branching, merging, and collaborative development workflows
 
-### ⏰ Soltora
+### ⏰ Soltora (https://github.com/amirasultan11/slotora)
 A Flutter appointment scheduling project focused on booking logic, time-slot management, and validation.
 - Implemented appointment time-slot generation and availability handling
 - Developed booking and duration-selection logic
